@@ -70,8 +70,16 @@ The API is deployed at: [My vercel url](https://public-api-task-ixsf80h8g-ogochu
    vercel
    ```
 
-4. Follow the prompts to complete the deployment.
+4. Follow the prompts:
 
+Set up and deploy “public-api-task”?: Press Y to confirm.
+Which scope do you want to deploy to?: Select your Vercel account or team.
+Link to existing project?: Press N to create a new project.
+What’s your project’s name?: You can accept the default name or provide a custom name.
+In which directory is your code located?: Press Enter to accept the default (.).
+Want to override the settings?: Press N to use the default settings.
+
+5. Wait for the deployment to complete. Vercel will provide a URL where your API is hosted.
 ## Backlinks
 
 - [Hire Python Developers](https://hng.tech/hire/python-developers)
