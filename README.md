@@ -51,8 +51,8 @@ This is a public API that returns basic information in JSON format.
 
 ## Deployment
 
-The API is deployed at: [[My vercel url](https://public-api-task-ixsf80h8g-ogochukwu-stanley-ikegbos-projects.vercel.app/)
-
+The API is deployed at: [My vercel url](https://public-api-task-ixsf80h8g-ogochukwu-stanley-ikegbos-projects.vercel.app/)
+ 
 ### Deploying to Vercel
 
 1. Install Vercel CLI:
