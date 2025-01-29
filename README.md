@@ -95,14 +95,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Backlinks**: Includes all the required backlinks as specified in the project requirements.
 - **License**: Mentions the license under which the project is distributed.
 
-Replace `[Your Deployed URL]` with the actual URL of your deployed API. This `README.md` file should provide all the necessary information for users to understand, set up, and use your API.
-### Explanation:
-
-- **Project Title and Description**: Provides a brief overview of the project.
-- **Endpoint**: Specifies the API endpoint and the expected response format.
-- **Setup Instructions**: Detailed steps to clone the repository, install dependencies, and run the server locally.
-- **Deployment**: Instructions for deploying the API, including steps for deploying to Vercel.
-- **Backlinks**: Includes all the required backlinks as specified in the project requirements.
-- **License**: Mentions the license under which the project is distributed.
-
 This `README.md` file should provide all the necessary information for users to understand, set up, and use your API.
