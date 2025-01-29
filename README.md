@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Backlinks**: Includes all the required backlinks as specified in the project requirements.
 - **License**: Mentions the license under which the project is distributed.
 
-This `README.md` file should provide all the necessary information for users to understand, set up, and use your API.
+This `README.md` file provides all the necessary information for users to understand, set up, and use your API.
